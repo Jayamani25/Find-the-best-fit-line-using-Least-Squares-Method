@@ -53,7 +53,7 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
-*/
+
 ```
 
 ## Output:
